@@ -1,0 +1,20 @@
+2023-04-10 17:40:56.995 [info] 
+
+
+
+
+2023-04-10 17:40:56.995 [info] Extension host agent started.
+2023-04-10 17:40:57.004 [info] Started initializing default profile extensions in extensions installation folder. file:///home/laura/.vscode-server/extensions
+2023-04-10 17:40:57.026 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/laura/.vscode-server/extensions
+2023-04-10 17:40:57.244 [info] [127.0.0.1][8e786385][ManagementConnection] New connection established.
+2023-04-10 17:40:57.659 [info] [127.0.0.1][c409a0a9][ExtensionHostConnection] New connection established.
+2023-04-10 17:40:57.691 [info] [127.0.0.1][c409a0a9][ExtensionHostConnection] <174> Launched Extension Host Process.
+2023-04-10 18:41:25.205 [info] Getting Manifest... ritwickdey.liveserver
+2023-04-10 18:41:25.386 [info] Installing extension: ritwickdey.liveserver
+2023-04-10 18:41:29.817 [info] Extension signature is verified: ritwickdey.liveserver
+2023-04-10 18:41:35.203 [info] Extracted extension to /home/laura/.vscode-server/extensions/.abaeeed8-41c4-4b6f-ae41-4949c0d359bb: ritwickdey.liveserver
+2023-04-10 18:41:35.235 [info] Renamed to /home/laura/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2023-04-10 18:41:35.238 [info] Extracting extension completed. ritwickdey.liveserver
+2023-04-10 18:41:35.248 [info] Extension installed successfully: ritwickdey.liveserver
+2023-04-10 18:56:22.809 [info] [127.0.0.1][8e786385][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-04-10 18:56:22.952 [info] [127.0.0.1][c409a0a9][ExtensionHostConnection] <174> Extension Host Process exited with code: 0, signal: null.

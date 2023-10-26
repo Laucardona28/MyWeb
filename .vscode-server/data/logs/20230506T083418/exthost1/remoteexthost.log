@@ -1,0 +1,26 @@
+2023-05-06 08:34:19.967 [info] Extension host with pid 195 started
+2023-05-06 08:34:19.998 [info] Lock '/home/laura/.vscode-server/data/User/workspaceStorage/ce68cf7eda161d11756a6df3bd86015b/vscode.lock': Lock acquired.
+2023-05-06 08:34:20.162 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-05-06 08:34:20.163 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-05-06 08:34:21.101 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-05-06 08:34:21.115 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-05-06 08:34:21.116 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-05-06 08:34:21.261 [info] Eager extensions activated
+2023-05-06 08:34:21.262 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-05-06 08:34:21.262 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-05-06 08:34:21.262 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-05-06 08:37:07.410 [error] Error: spawn Google Chrome ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-05-06 08:38:49.391 [error] Error: spawn Google Chrome ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-05-06 08:41:08.689 [error] Error: spawn Google Chrome ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-05-06 09:00:48.643 [info] Extension host terminating: received terminate message from renderer
+2023-05-06 09:00:48.645 [info] Lock '/home/laura/.vscode-server/data/User/workspaceStorage/ce68cf7eda161d11756a6df3bd86015b/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-05-06 09:00:48.732 [info] Extension host with pid 195 exiting with code 0

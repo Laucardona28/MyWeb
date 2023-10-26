@@ -1,0 +1,18 @@
+2023-04-11 16:02:40.354 [info] Extension host with pid 312 started
+2023-04-11 16:02:40.380 [info] Lock '/home/laura/.vscode-server/data/User/workspaceStorage/ce68cf7eda161d11756a6df3bd86015b/vscode.lock': Lock acquired.
+2023-04-11 16:02:40.421 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-04-11 16:02:40.422 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-04-11 16:02:41.001 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-04-11 16:02:41.015 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-04-11 16:02:41.015 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-04-11 16:02:41.171 [info] Eager extensions activated
+2023-04-11 16:02:41.172 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-04-11 16:02:41.172 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-04-11 16:02:56.913 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-04-11 16:03:07.636 [error] Error: spawn Google Chrome ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-04-11 16:03:14.535 [info] Extension host terminating: received terminate message from renderer
+2023-04-11 16:03:14.536 [info] Lock '/home/laura/.vscode-server/data/User/workspaceStorage/ce68cf7eda161d11756a6df3bd86015b/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-04-11 16:03:14.567 [info] Extension host with pid 312 exiting with code 0

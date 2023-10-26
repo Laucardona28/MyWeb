@@ -1,0 +1,25 @@
+2023-04-10 18:56:35.192 [info] Extension host with pid 423 started
+2023-04-10 18:56:35.219 [info] Lock '/home/laura/.vscode-server/data/User/workspaceStorage/ce68cf7eda161d11756a6df3bd86015b/vscode.lock': Lock acquired.
+2023-04-10 18:56:35.246 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-04-10 18:56:35.247 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-04-10 18:56:35.248 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-04-10 18:56:35.249 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-04-10 18:56:35.688 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-04-10 18:56:35.714 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-04-10 18:56:35.715 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-04-10 18:56:35.980 [info] Eager extensions activated
+2023-04-10 18:56:35.981 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-04-10 18:56:35.981 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-04-10 18:56:35.983 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-04-10 18:56:39.914 [error] Error: spawn google-chrome ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-04-10 18:58:09.613 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-04-10 18:58:57.036 [error] Error: spawn google-chrome ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-04-10 19:03:15.839 [info] Extension host terminating: received terminate message from renderer
+2023-04-10 19:03:15.840 [info] Lock '/home/laura/.vscode-server/data/User/workspaceStorage/ce68cf7eda161d11756a6df3bd86015b/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-04-10 19:03:15.901 [info] Extension host with pid 423 exiting with code 0

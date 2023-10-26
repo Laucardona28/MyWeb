@@ -1,0 +1,8 @@
+{
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "Google Chrome",
+    "liveServer.settings.CustomBrowser": "dev chrome",
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "liveServer.settings.donotShowInfoMsg": true
+
+}

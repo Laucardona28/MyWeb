@@ -1,0 +1,32 @@
+2023-04-10 18:56:33.901 [info] 
+
+
+
+
+2023-04-10 18:56:33.937 [info] Extension host agent started.
+2023-04-10 18:56:34.201 [info] [127.0.0.1][a40fbe57][ManagementConnection] New connection established.
+2023-04-10 18:56:34.501 [info] [127.0.0.1][6e865721][ExtensionHostConnection] New connection established.
+2023-04-10 18:56:34.512 [info] [127.0.0.1][6e865721][ExtensionHostConnection] <423> Launched Extension Host Process.
+2023-04-10 18:59:55.865 [info] [127.0.0.1][6e865721][ExtensionHostConnection] <423> [0mGET /favicon.ico [33m404[0m 4.595 ms - 150[0m
+
+2023-04-10 19:02:41.202 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///home/laura/.vscode-server/extensions/extensions.json
+2023-04-10 19:02:41.225 [info] Marked extension as uninstalled ritwickdey.liveserver-5.7.9
+2023-04-10 19:02:41.489 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///home/laura/.vscode-server/extensions/extensions.json
+2023-04-10 19:02:53.036 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///home/laura/.vscode-server/extensions/extensions.json
+2023-04-10 19:02:53.276 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///home/laura/.vscode-server/extensions/extensions.json
+2023-04-10 19:02:58.718 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///home/laura/.vscode-server/extensions/extensions.json
+2023-04-10 19:02:58.898 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///home/laura/.vscode-server/extensions/extensions.json
+2023-04-10 19:03:01.779 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///home/laura/.vscode-server/extensions/extensions.json
+2023-04-10 19:03:02.023 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///home/laura/.vscode-server/extensions/extensions.json
+2023-04-10 19:03:15.843 [info] [127.0.0.1][a40fbe57][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-04-10 19:03:15.917 [info] [127.0.0.1][6e865721][ExtensionHostConnection] <423> Extension Host Process exited with code: 0, signal: null.
+2023-04-10 19:03:17.589 [info] [127.0.0.1][e4ec97e3][ManagementConnection] New connection established.
+2023-04-10 19:03:17.896 [info] [127.0.0.1][d9f050f3][ExtensionHostConnection] New connection established.
+2023-04-10 19:03:17.907 [info] [127.0.0.1][d9f050f3][ExtensionHostConnection] <500> Launched Extension Host Process.
+2023-04-10 19:03:45.915 [info] Getting Manifest... ritwickdey.liveserver
+2023-04-10 19:03:46.091 [info] Installing extension: ritwickdey.liveserver
+2023-04-10 19:03:47.504 [info] Extension signature is verified: ritwickdey.liveserver
+2023-04-10 19:03:47.508 [info] Removed the extension from uninstalled list: ritwickdey.liveserver
+2023-04-10 19:03:47.537 [info] Extension installed successfully: ritwickdey.liveserver
+2023-04-10 19:18:00.402 [info] [127.0.0.1][e4ec97e3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-04-10 19:18:00.513 [info] [127.0.0.1][d9f050f3][ExtensionHostConnection] <500> Extension Host Process exited with code: 0, signal: null.
